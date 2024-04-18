@@ -5,9 +5,7 @@
 <div align="center">
   
   <h1> Hi there👋 I am AmirHossein Abdolmotallebi </h1>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=amir1376)
-  
+
 </div>
 
 
