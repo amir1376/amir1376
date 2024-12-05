@@ -14,7 +14,7 @@
 - 🔭 I am currently working on kotlin multiplatform projects
 - 💬 Ask me about Kotlin / Android / Compose
 - 📫 Reach me in
-  <a href="https://t.me/Amir_Ai"> <img hegiht="16" width="16" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"/>Telegram</a>
+  <a href="https://t.me/Amir_Ai"><img alt="Telegram Chat" src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram&labelColor=gray"></a>
   
 - 🌐 [My Personal Website](https://amirab.ir)
 
