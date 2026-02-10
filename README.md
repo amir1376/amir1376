@@ -12,11 +12,15 @@
 ### As a developer
 
 - 🔭 I am currently working on kotlin multiplatform projects
-- 💬 Ask me about Kotlin / Android / Compose
-- 📫 Reach me in
-  <a href="https://t.me/Amir_Ai"><img alt="Telegram Chat" src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram&labelColor=gray"></a>
-  
-- 🌐 [My Personal Website](https://amirab.ir)
+- 💡 Founder & Maintainer of [AB Download Manager](https://github.com/amir1376/ab-download-manager)
+- 💬 Ask me about Kotlin / Android / JVM / Compose
+- 💻 Open to remote Android & JVM Work
+
+### Let's Connect
+
+<a href="https://t.me/Amir_Ai"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&labelColor=white"></a>
+<a href="mailto:amir.a1376@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&labelColor=white"></a>
+<a href="https://www.amirab.ir/?lang=en"><img alt="My Personal Website" src="https://img.shields.io/badge/Website-purple?logo=google-chrome&labelColor=white"></a>
 
 ### Languages and Tools:
 
